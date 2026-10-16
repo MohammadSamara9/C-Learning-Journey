@@ -12,12 +12,13 @@
 This learning journey took about **four months**.
 It started with the C course at **Birzeit University**, then continued with the **C Programming** specialization by **the University of Michigan** on **Coursera**.
 
-The specialization has four courses. I completed the first two:
+Courses I completed from the specialization:
 
-- ✅ Programming for Everybody (Getting Started with C)
-- ✅ Advanced Programming in C
-
-Certificates are in the [`certificates/`](certificates) folder.
+| Course | Date | Certificate |
+|---|---|---|
+| ✅ Exploring C | Jun 2025 | [PDF](certificates/coursera-c-1.pdf) · [Verify](https://coursera.org/verify/HUHF5FEMJKLO) |
+| ✅ Programming in C | Jul 2025 | [PDF](certificates/coursera-c-2.pdf) · [Verify](https://coursera.org/verify/P6J5Q6XLLX0P) |
+| ✅ Data Structures in C | Sep 2026 | in the [data-structures-in-c](https://github.com/MohammadSamara9/data-structures-in-c) repo |
 
 This repository collects the exercises I solved while learning, to practice the concepts and to help others who are learning C.
 
